@@ -1,0 +1,6 @@
+# Core dependencies
+python-pptx==1.0.2
+pytesseract==0.3.13
+pillow==11.1.0
+openai==1.59.5
+requests==2.32.3

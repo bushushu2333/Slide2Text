@@ -1,0 +1,5 @@
+-r requirements.txt  # 首先包含基本依赖
+black  # 代码格式化
+pylint  # 代码检查
+rope  # 重构工具
+autopep8  # 自动格式化

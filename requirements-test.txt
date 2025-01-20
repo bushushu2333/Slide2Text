@@ -1,0 +1,4 @@
+-r requirements.txt  # 首先包含基本依赖
+pytest  # 测试框架
+pytest-cov  # 测试覆盖率
+pytest-mock  # 模拟测试
